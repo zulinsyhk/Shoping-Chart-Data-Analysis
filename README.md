@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Shoping Chart Data Analisis Dashboard
 
 ## Setup environment
 ```
