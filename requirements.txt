@@ -1,4 +1,3 @@
-pip install anaconda
 stremalit
 pandas
 matplotlib
