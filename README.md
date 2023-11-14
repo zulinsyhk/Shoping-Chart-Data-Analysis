@@ -1,5 +1,3 @@
-# Dicoding Collection Dashboard ✨
-
 ## Setup environment
 ```
 pip install --upgrade pip
